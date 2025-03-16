@@ -41,5 +41,10 @@ public class AnimalHierarchy {
         
         Bird bird = new Bird();
         bird.makeSound();
+
+//        Sound of Animal
+//        Dog -> bark
+//        Cat -> meow
+//        Bird -> chirping
     }
 }
