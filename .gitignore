@@ -1,0 +1,5 @@
+out
+.idea
+.gitignore
+java-inheritence.iml
+*.class
